@@ -13,6 +13,14 @@ In global mode (ie, with -g or --global appended to the command), it installs th
 
 By default, npm install will install all modules listed as dependencies in package.json.
 
+Run the application from the command prompet. 
+
+Change the directory to the project location.
+
+ Type node app.js to run the application.
+ 
+ Hit port 3000 on the browser to see the site.
+
 
 
 
