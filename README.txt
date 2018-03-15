@@ -23,13 +23,24 @@ By default, npm install will install all modules listed as dependencies in packa
 Operating instructions: 
 
 
-sign in by typing username and a password and an email 
+Sign in by typing username, a password and an email. 
 
-this account will be saved in data base if no user account exists in the database with the same name
+This account will be saved in database if no user account exists in the database with the same name.
  
-now you can successfuly sign in and create a to do task wich will be add in the list below the inputs with an X sign to be able to delee it
+Now, you can successfuly sign in and create a to-do task wich will be add in the list below the inputs with an X sign to be able to delete it.
 
 
+
+
+
+
+
+Known bugs :
+
+
+- there is no sign out :)
+
+- Date and time should be together as a user control; a user cannot add the time without the date or the date witout the time.
 
 
 
@@ -42,13 +53,3 @@ Email : Shahd.magdi.salama@gmail.com
 
 
 
-
-
-
-
-Known bugs
-
-
-there is no sign out :)
-
-date and time should be together as a user control; a user cannot add the time without the date or the date witout the time.
