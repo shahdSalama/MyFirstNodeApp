@@ -50,6 +50,7 @@ Known bugs :
 
 - Date and time should be together as a user control; a user cannot add the time without the date or the date witout the time.
 
+- Date and time of task should not be before today's date and time. cannot creat a past task
 
 
 
